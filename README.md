@@ -23,3 +23,8 @@ but also the murderer... and the victim... and the suspect.**
 
 <h3 align="left">Languages and Tools:</h3>
 
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kountourispanagiotis&theme=2077)   
+</div>
+
