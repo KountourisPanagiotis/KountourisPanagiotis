@@ -13,8 +13,8 @@
 
 - 📫 Reach me : **kountourispan022@gmail.com**
 
-- ⚡ Fun fact about me : **Debugging for me is like i am being the detective </br>  in a crime movie 
-but also the murderer... and the victim... and the suspect.**
+- ⚡ Fun fact about me : **Debugging, for me, feels like </br> i am being the detective in a crime movie 
+but also </br>the murderer... and the victim... and the suspect.**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/kountouris-panagiotis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kountouris-panagiotis" height="30" width="40" /></a>
