@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kountourispanagiotis&label=Profile%20views&color=0e75b6&style=flat" alt="kountourisPanagiotis" /> </p>
 
-- 🔭 I’m currently working on **java** projects
+- 🔭 I’m currently working on **Java** projects
 
 - 🌱 I’m currently learning **Android Development**
 
 - 💬 Ask me about anything.
 
-- 📫 How to reach me : **kountourispan022@gmail.com**
+- 📫 Reach me : **kountourispan022@gmail.com**
 
 - ⚡ Fun fact about me : **Debugging for me is like i am being the detective </br>  in a crime movie 
 but also the murderer... and the victim... and the suspect.**
