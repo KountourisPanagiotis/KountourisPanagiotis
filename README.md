@@ -1,4 +1,4 @@
-<img src="./banner.svg" alt="Banner">
+<img src="./banner-rounded.png" alt="Banner">
 <h3 align="center">A passionate <em>Software Engineer</em> from Greece</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/KountourisPanagiotis/KountourisPanagiotis/blob/main/programmer.gif?raw=true">
 
