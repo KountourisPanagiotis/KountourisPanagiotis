@@ -22,7 +22,11 @@ but also the murderer... and the victim... and the suspect.**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,cs,css,docker,dotnet,figma,firebase,git,gradle,hibernate,html,idea,java,js,md,maven,mongodb,mysql,nodejs,postman,py,spring,selenium,ts" />
+</a>
+<br>
+<br>
 <div align="center">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kountourispanagiotis&theme=2077)   
