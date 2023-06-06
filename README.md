@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kountouris Panagiotis</h1>
+<img src="./banner.svg" alt="Banner">
 <h3 align="center">A passionate Software Engineer from Greece</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/KountourisPanagiotis/KountourisPanagiotis/blob/main/programmer.gif?raw=true">
 
